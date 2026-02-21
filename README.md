@@ -73,6 +73,15 @@ The system operates in real-time and ensures preventive safety control.
 
 ---
 
+## 🎥 Simulation Demo
+
+You can view the working simulation and demonstration video here:
+
+🔗 **Google Drive Link:**  
+https://drive.google.com/file/d/1oow1osmABIp8lGxsFnfmIvYPNK4blOH9/view?usp=sharing
+
+---
+
 ## 🎯 Key Features
 
 - Real-time alcohol detection
